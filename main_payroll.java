@@ -11,7 +11,6 @@ public class main_payroll {
         double socso = 0.00;
         double workday = 26;
         boolean temp = true;
-        //boolean temp2 = true;
         
         JOptionPane.showMessageDialog(null,"Welcome to Payroll Administration");
         
